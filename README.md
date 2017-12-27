@@ -1,0 +1,1 @@
+An smart face and smile detector with ability of distinguishing pre captured images from live ones.
